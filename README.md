@@ -5,10 +5,10 @@ ACTIONSCRIPT TO TYPESCRIPT CONVERTER
 
 ####version 0.0.1-alpha
 
-as2ts is an application that converts as3 files to typescript files. 
+as2ts is an application that converts Flash action script files to typescript files. 
 With as2ts , developpers no longer have to convert as3 code to Typescript code manually,
 saving them loads of time.
-as2ts is written is ruby.
+as2ts is written in ruby.
 
 ### BASIC USAGE
 
