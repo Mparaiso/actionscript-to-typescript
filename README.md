@@ -3,6 +3,8 @@ ACTIONSCRIPT TO TYPESCRIPT CONVERTER
 
 ##author mparaiso <mparaiso@oneline.fr>
 
+####version 0.0.1-alpha
+
 as2ts is an application that converts as3 files to typescript files. 
 With as2ts , developpers no longer have to convert as3 code to Typescript code manually,
 saving them loads of time.
